@@ -56,7 +56,7 @@ class App extends Component {
         'Não compense na ira o que lhe falta na razão.',
         'Defeitos e virtudes são apenas dois lados da mesma moeda.',
         'A maior de todas as torres começa no solo.',
-        'Acredite em milagres, mas não dependa deless.',
+        'Acredite em milagres, mas não dependa deles.',
         "Siga os bons e aprenda com eles.",
         "O bom-senso vale mais do que muito conhecimento.",
         "Sem o fogo do entusiasmo, não há o calor da vitória."
